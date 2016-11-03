@@ -1,0 +1,16 @@
+<div class="swiper-container" id="myswp">
+  <div class="swiper-wrapper" >
+    <div class="swiper-slide">
+    	<img src="/images/sw01.jpg" />
+    </div>
+    <div class="swiper-slide">
+    	<img src="/images/sw02.jpg" />
+    </div>
+    <div class="swiper-slide">
+    	<img src="/images/sw03.jpg" />
+    </div>
+    <div class="swiper-slide" id="slide4">
+    	<img src="/images/sw04.jpg" />
+    </div>
+  </div>
+</div>
